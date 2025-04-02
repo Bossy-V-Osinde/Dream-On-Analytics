@@ -1,0 +1,72 @@
+/* Basic styles for the layout */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #0a1931;
+    color: white;
+    padding: 1.5rem 0;
+  }
+  
+  header h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .hero {
+    background: linear-gradient(to right, #185adb, #0a1931);
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .btn {
+    background-color: #185adb;
+    color: white;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #0a1931;
+  }
+  
+  footer {
+    background-color: #0a1931;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem;
+  }
+  
+  section {
+    padding: 3rem 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
