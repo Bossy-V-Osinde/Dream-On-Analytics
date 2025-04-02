@@ -13,7 +13,7 @@ The Dream On Analytics website includes:
 
 This website was created with the goal of supporting Sustainable Development Goal (SDG 4 - Quality Education) by making knowledge in data science, coding, and artificial intelligence accessible to people around the world. By providing educational content and services, Dream On Analytics aims to empower individuals and businesses to embrace technology and innovation in their respective fields.
 
-Key Features
+# Key Features
 - Multi-page website: With easy navigation between Home, Courses, Services, and Contact pages.
 
 - Responsive Design: Ensures a seamless experience across devices (desktop, tablet, mobile).
@@ -22,7 +22,7 @@ Key Features
 
 - SDG Focus: Contributing to the achievement of SDG 4 by providing accessible learning opportunities and educational resources.
 
-Technologies Used
+# Technologies Used
 - HTML5: Structure of the website.
 
 - CSS3: Styling for layout and design.
